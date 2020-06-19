@@ -1,0 +1,3 @@
+Company Vehicle Monthly Cost: $4,000
+Company Building Monthly Cost: $6,000
+Staff Pay Monthly Cost: $30,000
